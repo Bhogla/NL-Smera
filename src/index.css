@@ -1,0 +1,247 @@
+/* Import Tailwind base styles */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Industrial Brand Color Variables */
+:root {
+  --steel-blue: #2C3E50;
+  --burnt-yellow: #DAA520;
+  --off-white: #F7F7F7;
+  --charcoal: #2D2D2D;
+  --forest-green: #228B22;
+  --burnt-orange: #D35400;
+  --light-steel: #34495E;
+  --dark-steel: #1A252F;
+}
+
+.company-logo-1 {
+  background-image: url('./assets/companylogos/1.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-2 {
+  background-image: url('./assets/companylogos/2.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-3 {
+  background-image: url('./assets/companylogos/3.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-4 {
+  background-image: url('./assets/companylogos/4.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-5 {
+  background-image: url('./assets/companylogos/5.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-6 {
+  background-image: url('./assets/companylogos/6.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-7 {
+  background-image: url('./assets/companylogos/7.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-8 {
+  background-image: url('./assets/companylogos/8.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-9 {
+  background-image: url('./assets/companylogos/9.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-10 {
+  background-image: url('./assets/companylogos/10.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-11 {
+  background-image: url('./assets/companylogos/11.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-12 {
+  background-image: url('./assets/companylogos/12.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-13 {
+  background-image: url('./assets/companylogos/13.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-14 {
+  background-image: url('./assets/companylogos/14.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-15 {
+  background-image: url('./assets/companylogos/15.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo-17 {
+  background-image: url('./assets/companylogos/17.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.company-logo {
+  background-image: url('./assets/company-logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 160px;
+  height: 80px;
+}
+
+@media (min-width: 768px) {
+  .company-logo {
+    width: 200px;
+    height: 100px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .company-logo {
+    width: 240px;
+    height: 120px;
+  }
+}
+
+.hero-background {
+  background-image: url('./assets/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero-background-professional {
+  background-image: url('./assets/Product/p5.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero-background-industrial {
+  background-image: url('./assets/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.footer-company-logo {
+  background-image: url('./assets/company-logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 240px;
+  height: 120px;
+}
+
+@media (min-width: 768px) {
+  .footer-company-logo {
+    width: 280px;
+    height: 140px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .footer-company-logo {
+    width: 300px;
+    height: 150px;
+  }
+}
+
+/* Industrial Grade Styling */
+body {
+  background-color: var(--off-white);
+  color: var(--charcoal);
+}
+
+/* Professional Button Styles */
+.btn-primary {
+  background-color: var(--forest-green);
+  border-color: var(--forest-green);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #1e7a1e;
+  border-color: #1e7a1e;
+}
+
+.btn-secondary {
+  background-color: var(--burnt-orange);
+  border-color: var(--burnt-orange);
+  color: white;
+}
+
+.btn-secondary:hover {
+  background-color: #b8470a;
+  border-color: #b8470a;
+}
+
+/* Industrial Section Backgrounds */
+.section-steel {
+  background-color: var(--steel-blue);
+  color: white;
+}
+
+.section-light {
+  background-color: var(--off-white);
+  color: var(--charcoal);
+}
+
+/* Professional Card Styling */
+.card-industrial {
+  background-color: white;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 6px -1px rgba(44, 62, 80, 0.1);
+}
+
+.card-industrial:hover {
+  box-shadow: 0 10px 15px -3px rgba(44, 62, 80, 0.15);
+}
+
+.scale-background {
+  background-image: url('./assets/scale.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Hide scrollbar for webkit browsers */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
