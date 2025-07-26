@@ -17,7 +17,7 @@ import { useState } from "react";
      }); 
  
      if (response.ok) { 
-       setStatus("Thank you for your inquiry! Our enterprise team will contact you within 24 hours."); 
+       setStatus("Thank you for your inquiry! Our Smera team will contact you within 24 hours."); 
        form.reset(); 
      } else { 
        setStatus("There was an issue submitting your request. Please try again or call us directly."); 
@@ -26,7 +26,7 @@ import { useState } from "react";
  
    return ( 
      <div className="max-w-xl mx-auto p-4 bg-white shadow-lg rounded-lg mt-10"> 
-       <h2 className="text-2xl font-bold mb-2 text-center text-steel-blue-800">Enterprise Solar Consultation</h2> 
+       <h2 className="text-2xl font-bold mb-2 text-center text-steel-blue-800">Smera Solar Consultation</h2> 
        <p className="text-center mb-6 text-charcoal"> 
          Get a customized industrial solar solution for your facility 
        </p> 
@@ -90,7 +90,7 @@ import { useState } from "react";
            type="submit" 
            className="bg-forest-green-600 hover:bg-forest-green-700 text-white px-6 py-3 rounded font-semibold transition-colors w-full" 
          > 
-           Request Enterprise Consultation
+           Request Smera Consultation
          </button> 
          {status && <p className={`mt-4 ${status.includes('Thank you') ? 'text-forest-green-600' : 'text-red-600'}`}>{status}</p>} 
        </form> 

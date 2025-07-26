@@ -120,7 +120,7 @@ const Achievements = () => {
             </div>
             <div>
               <div className="text-5xl font-bold text-blue-900">{counts.clients}+</div>
-              <div className="mt-2 text-sm font-medium text-gray-600 uppercase tracking-wider">Enterprise Clients</div>
+              <div className="mt-2 text-sm font-medium text-gray-600 uppercase tracking-wider">Smera Clients</div>
             </div>
             <div>
               <div className="text-5xl font-bold text-blue-900">{counts.savings === 1000 ? '1000+' : counts.savings}</div>

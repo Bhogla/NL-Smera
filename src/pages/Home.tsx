@@ -15,7 +15,7 @@ const Home = () => {
             Powering Industrial Excellence Through Advanced Solar Infrastructure
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl text-gray-100 drop-shadow-xl">
-            Leading EPC contractor delivering utility-scale solar installations, energy storage systems, and smart grid solutions for manufacturing facilities and commercial enterprises across India
+            Leading EPC contractor delivering utility-scale solar installations, energy storage systems, and smart grid solutions for manufacturing facilities and commercial businesses across India
           </p>
           <div className="flex flex-wrap gap-4">
             <Link
@@ -41,7 +41,7 @@ const Home = () => {
           <h2 className="text-3xl font-bold text-steel-blue-800 text-center mb-4">Transforming Industrial Energy Infrastructure</h2>
           <div className="w-24 h-1 bg-burnt-yellow-500 mx-auto mb-6"></div>
           <p className="text-xl leading-relaxed mx-auto text-charcoal" style={{ maxWidth: '64rem' }}>
-            We partner with industrial manufacturers, commercial enterprises, and utility-scale developers to deliver comprehensive solar energy solutions that reduce operational costs, enhance energy security, and meet sustainability goals. Our expertise spans from multi-megawatt solar installations to integrated energy storage systems and smart grid solutions.
+            We partner with industrial manufacturers, commercial businesses, and utility-scale developers to deliver comprehensive solar energy solutions that reduce operational costs, enhance energy security, and meet sustainability goals. Our expertise spans from multi-megawatt solar installations to integrated energy storage systems and smart grid solutions.
           </p>
         </div>
       </section>
@@ -86,7 +86,7 @@ const Home = () => {
                 <span className="text-steel-blue-800">Optimize Your Energy Costs</span>
               </h2>
               <p className="text-charcoal mb-8">
-                Smera delivers enterprise-grade solar solutions designed for industrial manufacturing, 
+                Smera delivers Smera solar solutions designed for industrial manufacturing, 
                 commercial facilities, and utility-scale projects. Our comprehensive approach includes 
                 energy audits, custom system design, and long-term performance optimization.
               </p>
@@ -144,7 +144,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Enterprise Services Section */}
+      {/* Smera Services Section */}
       <section className="py-20 bg-off-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
@@ -153,7 +153,7 @@ const Home = () => {
             </h2>
             <div className="w-24 h-1 bg-burnt-yellow-500 mx-auto mb-6"></div>
             <p className="text-xl text-charcoal max-w-3xl mx-auto">
-              From feasibility studies to long-term O&M contracts, we provide end-to-end solar energy solutions for enterprise clients.
+              From feasibility studies to long-term O&M contracts, we provide end-to-end solar energy solutions for Smera clients.
             </p>
           </div>
 
@@ -230,7 +230,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-steel-blue-800 mb-4">
-              Enterprise Solar Implementation Process
+              Smera Solar Implementation Process
             </h2>
             <div className="w-24 h-1 bg-burnt-yellow-500 mx-auto mb-6"></div>
             <p className="text-xl text-charcoal max-w-3xl mx-auto">

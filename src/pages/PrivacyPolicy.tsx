@@ -3,14 +3,14 @@ const PrivacyPolicy = () => {
   return (
     <div className="bg-gray-50 py-32">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h1 className="text-4xl md:text-5xl font-bold text-center text-blue-900 mb-12">Privacy Policy for Aasna Smera Pvt. Ltd.</h1>
+        <h1 className="text-4xl md:text-5xl font-bold text-center text-blue-900 mb-12">Privacy Policy for Smera Pvt. Ltd.</h1>
 
         <div className="bg-white shadow-lg rounded-lg p-8 md:p-12 lg:p-16 prose max-w-none">
           <p className="text-gray-700 mb-4">
             <strong>Last Updated: [7 Jun 2025]</strong>
           </p>
           <p className="text-gray-700 mb-4">
-            Aasna Smera Pvt. Ltd. (“Smera”/“We”/ “Us”/”Our”) is committed to upholding the privacy and security of the information supplied by every person (“User”/“You”) accessing and using our website, (“Website”). This Privacy Policy explains the manner in which we collect, use, protect, and share User information.
+            Smera Pvt. Ltd. (“Smera”/“We”/ “Us”/”Our”) is committed to upholding the privacy and security of the information supplied by every person (“User”/“You”) accessing and using our website, (“Website”). This Privacy Policy explains the manner in which we collect, use, protect, and share User information.
           </p>
           <p className="text-gray-700 mb-4">
             By accessing or using the Website, you signify that you have read, understood, and agree to be bound by this Privacy Policy. This policy applies to information collected from residents of India. Your use of the Website and any disputes arising therefrom are subject to this Privacy Policy.
@@ -112,22 +112,22 @@ const PrivacyPolicy = () => {
 
           <h2 className="text-2xl font-bold text-blue-800 mb-4">10. How to Contact Us & Grievance Officer</h2>
           <p className="text-gray-700 mb-4">
-            If you have questions about this Privacy Policy or your information, please contact us at: urzasol@gmail.com
+            If you have questions about this Privacy Policy or your information, please contact us at: smerasolar@gmail.com
           </p>
           <p className="text-gray-700 mb-4">
             In accordance with the Information Technology Act, 2000, and rules made thereunder, the name and contact details of our Grievance Officer are provided below. The Grievance Officer will acknowledge complaints within 24 hours and dispose of them within 15 days of receipt.
           </p>
           <p className="text-gray-700 mb-4">
-            <strong>Name:</strong> [Your Designated Grievance Officer Name]
+            <strong>Name:</strong> Ms. Ashly Chaurasia
           </p>
           <p className="text-gray-700 mb-4">
-            <strong>Address:</strong> [Your Company's Registered or Sales Office Address, e.g., 3rd Floor Amar Plaza, St. Jude's Chowk, Dehradun, Uttarakhand -248171]
+            <strong>Address:</strong> 1/1 Ground Floor, Raj Tower, Opp. Sant Nirankari Satsang Bhawan, Kargi Chowk, Dehradun(UK)-248001.
           </p>
           <p className="text-gray-700 mb-4">
-            <strong>Email:</strong> urzasol@gmail.com
+            <strong>Email:</strong> smerasolar@gmail.com
           </p>
           <p className="text-gray-700 mb-4">
-            <strong>Phone:</strong> [A Designated Phone Number for Grievances]
+            <strong>Phone:</strong> +91 6396266476
           </p>
         </div>
       </div>

@@ -26,7 +26,7 @@ const Products = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold mb-8 text-center">1. Utility-Scale Solar Infrastructure</h2>
           <p className="mb-8 text-center max-w-3xl mx-auto">
-            Large-scale solar installations designed for industrial manufacturing, commercial enterprises, and utility companies. Our solutions deliver reliable, cost-effective clean energy with advanced grid integration capabilities.
+            Large-scale solar installations designed for industrial manufacturing, commercial businesses, and utility companies. Our solutions deliver reliable, cost-effective clean energy with advanced grid integration capabilities.
           </p>
           <div className="mb-12">
             <img src={p1} alt="Utility Scale Solar" className="w-full h-64 object-cover rounded-lg shadow-md mb-6" />
@@ -154,36 +154,12 @@ const Products = () => {
         </div>
       </section>
 
-      {/* Industrial Process Integration */}
-      <section className="bg-gray-50 py-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold mb-8 text-center">4. Industrial Process Integration</h2>
-          <p className="mb-8 text-center max-w-3xl mx-auto">
-            Specialized solar solutions integrated with industrial processes including solar thermal systems, process heating, and industrial water treatment powered by renewable energy.
-          </p>
-          <div className="mb-12">
-            <img src={p2} alt="Industrial Process Integration" className="w-full h-64 object-cover rounded-lg shadow-md mb-6" />
-          </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="bg-white p-6 rounded-lg shadow-md flex flex-col items-center text-center">
-              <Thermometer className="h-12 w-12 text-blue-600 mb-4" />
-              <h3 className="text-xl font-semibold mb-2">Solar Thermal Systems</h3>
-              <p>High-temperature solar thermal collectors for industrial process heating, steam generation, and manufacturing applications requiring thermal energy.</p>
-            </div>
-            <div className="bg-white p-6 rounded-lg shadow-md flex flex-col items-center text-center">
-              <Factory className="h-12 w-12 text-blue-600 mb-4" />
-              <h3 className="text-xl font-semibold mb-2">Process Optimization</h3>
-              <p>Integration of renewable energy systems with existing industrial processes to optimize energy consumption and reduce operational costs.</p>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Comprehensive EPC Services */}
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold mb-8 text-center">5. Turnkey EPC & Long-term O&M Services</h2>
+          <h2 className="text-3xl font-bold mb-8 text-center">4. Turnkey EPC & Long-term O&M Services</h2>
           <p className="mb-8 text-center max-w-3xl mx-auto">
             Complete project lifecycle management from initial feasibility studies to long-term operations and maintenance contracts, ensuring optimal performance throughout the system lifetime.
           </p>

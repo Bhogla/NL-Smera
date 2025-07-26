@@ -10,7 +10,7 @@ const About = () => {
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Smera - Powering Industrial Excellence Through Solar Innovation</h1>
           <p className="text-xl max-w-3xl mx-auto">
-            Leading EPC contractor specializing in utility-scale solar installations, industrial energy storage, and comprehensive renewable energy solutions for enterprise clients.
+            Leading EPC contractor specializing in utility-scale solar installations, industrial energy storage, and comprehensive renewable energy solutions for Smera clients.
           </p>
         </div>
       </section>
@@ -20,7 +20,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold mb-6">About Smera</h2>
           <p className="mb-4">
-            Established in 2015 in Dehradun, Uttarakhand, Aasna Smera Pvt. Ltd. has evolved into a premier EPC (Engineering, Procurement, and Construction) contractor specializing in large-scale solar installations for industrial and commercial clients. With over a decade of collective expertise in renewable energy infrastructure, we have successfully delivered 18+ MW of solar capacity across diverse industrial sectors.
+            Introduction to Smera Associates LLP Founded in 2022, Smera Associates LLP emerged with a resolute vision to champion environmental sustainability and foster economic development. The firm is committed to building a greener earth by harnessing the potential of solar energy across multiple sectors. Recognizing the urgent need for eco-friendly and sustainable solutions, Smera Associates LLP specializes in industrial, commercial, and utility-scale projects powered by solar technologies.
           </p>
           <p className="mb-4">
             Our comprehensive portfolio spans utility-scale solar farms, industrial rooftop installations, energy storage systems, and smart grid integration solutions. Operating from our headquarters in Dehradun with strategic offices in New Delhi and Chandigarh, we serve manufacturing facilities, commercial complexes, government institutions, and utility companies across India.
@@ -37,7 +37,7 @@ const About = () => {
           <h2 className="text-3xl font-bold text-blue-900 text-center mb-4">Mission & Vision for Industrial Excellence</h2>
           <div className="w-24 h-1 bg-yellow-400 mx-auto mb-6"></div>
           <p className="text-xl leading-relaxed mx-auto" style={{ maxWidth: '64rem' }}>
-            We are committed to transforming India's industrial energy landscape by delivering scalable, reliable, and cost-effective solar energy infrastructure. Our mission is to enable industrial enterprises to achieve energy independence, reduce operational costs, and meet sustainability targets through innovative renewable energy solutions. We strive to be the preferred partner for utility-scale solar projects, driving India's transition to clean energy while enhancing industrial competitiveness in the global market.
+            Smera Associates LLP aims to transform the energy landscape by integrating advanced solar systems into energy-intensive sectors. By focusing on large-scale projects, the company aims to make a substantial impact in reducing carbon footprints, lowering energy costs, and decreasing its dependence on fossil fuels. Each initiative is tailored to both enhance operational efficiency for clients and support broader climate goals.
           </p>
         </div>
       </section>
@@ -59,7 +59,7 @@ const About = () => {
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md flex flex-col items-center text-center">
               <Building2 className="h-12 w-12 text-blue-600 mb-4" />
-              <h3 className="text-xl font-semibold mb-2">Enterprise-Grade Partnerships</h3>
+              <h3 className="text-xl font-semibold mb-2">Smera Partnerships</h3>
               <p>Strategic alliances with tier-1 manufacturers like WAAREE, Luminous, TATA, Adani, and Sungrow ensuring premium components and extended warranties.</p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md flex flex-col items-center text-center">
@@ -74,12 +74,12 @@ const About = () => {
       {/* Industrial Solar Solutions Deep Dive */}
       <section className="bg-gray-100 py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold mb-6 text-center">Enterprise Solar Infrastructure: Powering Industrial Growth</h2>
+          <h2 className="text-3xl font-bold mb-6 text-center">Smera Solar Infrastructure: Powering Industrial Growth</h2>
           <p className="mb-4 text-center max-w-3xl mx-auto">
-            Our industrial solar solutions are engineered for high-performance applications, designed to meet the demanding energy requirements of manufacturing facilities, commercial complexes, and utility-scale projects.
+            Beyond environmental benefits, Smera Associates LLP places significant emphasis on stimulating the local and national economy. By implementing solar solutions, the firm generates employment opportunities, nurtures technical expertise, and encourages sustainable industrial growth.
           </p>
           <p className="mb-8 text-center max-w-3xl mx-auto">
-            From ground-mounted solar farms to integrated energy storage systems, we deliver comprehensive solutions that optimize energy costs, enhance grid stability, and support industrial sustainability initiatives.
+            This holistic approach not only addresses pressing environmental concerns but also contributes to long-term economic resilience, making solar power a cornerstone for progress and sustainability.
           </p>
 
           <h3 className="text-2xl font-bold mb-6 text-center">Core Components of Industrial Solar Systems</h3>

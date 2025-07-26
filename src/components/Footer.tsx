@@ -37,13 +37,13 @@ const Footer = () => {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold mb-6 text-yellow-500">Enterprise Solutions</h3>
+            <h3 className="text-lg font-bold mb-6 text-yellow-500">Smera Solutions</h3>
             <ul className="space-y-3">
               <li><Link to="/" className="text-gray-300 hover:text-white transition-colors">Home</Link></li>
               <li><Link to="/products" className="text-gray-300 hover:text-white transition-colors">Industrial Solutions</Link></li>
               <li><Link to="/about" className="text-gray-300 hover:text-white transition-colors">About Us</Link></li>
               <li><Link to="/achievements" className="text-gray-300 hover:text-white transition-colors">Project Portfolio</Link></li>
-              <li><Link to="/contact" className="text-gray-300 hover:text-white transition-colors">Enterprise Contact</Link></li>
+              <li><Link to="/contact" className="text-gray-300 hover:text-white transition-colors">Smera Contact</Link></li>
               <li><Link to="/privacy-policy" className="text-gray-300 hover:text-white transition-colors">Privacy Policy</Link></li>
             </ul>
           </div>
@@ -65,7 +65,7 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start space-x-3">
                 <MapPin className="flex-shrink-0 w-5 h-5 text-yellow-500 mt-1" />
-                <span className="text-gray-300 text-sm">Ground Floor, Raj Tower, Opp. Sant Nirankari Satsang Bhawan, Kargi Chowk, Dehradun(UK)-248001.</span>
+                <span className="text-gray-300 text-sm">1/1 Ground Floor, Raj Tower, Opp. Sant Nirankari Satsang Bhawan, Kargi Chowk, Dehradun(UK)-248001.</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="flex-shrink-0 w-5 h-5 text-yellow-500" />
@@ -76,14 +76,14 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="flex-shrink-0 w-5 h-5 text-yellow-500" />
-                <a href="mailto:info@urzaindia.com" className="text-gray-300 hover:text-white transition-colors text-sm">info@urzaindia.com</a>
+                <a href="mailto:smerasolar@gmail.com" className="text-gray-300 hover:text-white transition-colors text-sm">smerasolar@gmail.com</a>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-white/10 mt-12 pt-8 text-center">
-          <p className="text-gray-400 text-sm">&copy; {new Date().getFullYear()} Smera Pvt Ltd. All rights reserved. | ISO Certified EPC Contractor</p>
+          <p className="text-gray-400 text-sm">&copy; {new Date().getFullYear()} SMERA PVT LTD. All rights reserved. | ISO Certified EPC Contractor</p>
         </div>
       </div>
     </footer>

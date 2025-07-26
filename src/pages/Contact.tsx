@@ -12,15 +12,15 @@ const Contact = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Partner with Smera</h1>
           <p className="text-xl max-w-2xl mx-auto">
-            Ready to transform your industrial energy infrastructure? Connect with our enterprise solar specialists for comprehensive renewable energy solutions.
+            Ready to transform your industrial energy infrastructure? Connect with our Smera solar specialists for comprehensive renewable energy solutions.
           </p>
         </div>
       </section>
 
-      {/* Enterprise Services Overview */}
+      {/* Smera Services Overview */}
       <section className="py-12 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-center text-blue-900 mb-8">Enterprise Solar Consultation</h2>
+          <h2 className="text-3xl font-bold text-center text-blue-900 mb-8">Smera Solar Consultation</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
             <div className="text-center p-6 bg-gray-50 rounded-lg">
               <Factory className="h-12 w-12 text-blue-600 mx-auto mb-4" />
@@ -48,9 +48,9 @@ const Contact = () => {
             {/* Contact Form */}
             <div className="lg:pr-8 flex flex-col justify-between">
               <div>
-                <h2 className="text-4xl font-extrabold text-gray-900 mb-4">Request Enterprise Consultation</h2>
+                <h2 className="text-4xl font-extrabold text-gray-900 mb-4">Request Smera Consultation</h2>
                 <p className="text-lg text-gray-600 mb-8">
-                  Ready to explore industrial solar solutions? Our enterprise specialists will conduct a comprehensive energy audit and provide customized recommendations for your facility.
+                  Ready to explore industrial solar solutions? Our Smera specialists will conduct a comprehensive energy audit and provide customized recommendations for your facility.
                 </p>
               </div>
               <ContactForm />
@@ -58,7 +58,7 @@ const Contact = () => {
 
             {/* Contact Information */}
             <div className="lg:pl-8 mt-12 lg:mt-0">
-              <h2 className="text-4xl font-extrabold text-gray-900 mb-6">Enterprise Solutions Center</h2>
+              <h2 className="text-4xl font-extrabold text-gray-900 mb-6">Smera Solutions Center</h2>
               <div className="space-y-8">
                 <div className="flex items-start">
                   <MapPin className="h-8 w-8 text-blue-600 flex-shrink-0" />
@@ -71,7 +71,7 @@ const Contact = () => {
                 <div className="flex items-start">
                   <Phone className="h-8 w-8 text-blue-600 flex-shrink-0" />
                   <div className="ml-4">
-                    <h3 className="text-xl font-semibold text-gray-900">Enterprise Hotline</h3>
+                    <h3 className="text-xl font-semibold text-gray-900">Smera Hotline</h3>
                     <p className="text-gray-700 text-lg">
                       <a href="tel:+919719295383" className="hover:underline">+91 9719295383</a> (Primary)
                     </p>
@@ -86,7 +86,7 @@ const Contact = () => {
                   <div className="ml-4">
                     <h3 className="text-xl font-semibold text-gray-900">Business Development</h3>
                     <p className="text-gray-700 text-lg">
-                      <a href="mailto:info@urzaindia.com" className="hover:underline">info@urzaindia.com</a>
+                      <a href="mailto:smerasolar@gmail.com" className="hover:underline">smerasolar@gmail.com</a>
                     </p>
                     <p className="text-gray-600 mt-2">For project inquiries, partnerships, and technical consultations</p>
                   </div>
@@ -117,10 +117,10 @@ const Contact = () => {
         </div>
       </section>
 
-      {/* Enterprise Capabilities */}
+      {/* Smera Capabilities */}
       <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-center text-blue-900 mb-12">Why Enterprise Clients Choose Smera</h2>
+          <h2 className="text-3xl font-bold text-center text-blue-900 mb-12">Why Smera Clients Choose Smera</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="text-center">
               <div className="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -140,7 +140,7 @@ const Contact = () => {
               <div className="bg-yellow-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-2xl font-bold text-yellow-600">25+</span>
               </div>
-              <h3 className="text-lg font-semibold mb-2">Enterprise Clients</h3>
+              <h3 className="text-lg font-semibold mb-2">Smera Clients</h3>
               <p className="text-gray-600">Trusted by leading industrial companies</p>
             </div>
             <div className="text-center">
